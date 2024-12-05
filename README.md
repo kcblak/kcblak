@@ -16,5 +16,7 @@ Python Development: Data mining, web scraping (BeautifulSoup, Scrapy), data entr
 🔹 Contact Me:
 
 Email: jameshartkingsley@gmail.com
-LinkedIn: James-Hart Kingsley
-Upwork: James-Hart Kingsley
+
+LinkedIn: [James-Hart Kingsley](https://www.linkedin.com/in/kingsley-james-hart-93679b184/)
+
+Upwork: [James-Hart Kingsley](https://www.upwork.com/freelancers/~01a2b2e33bd18b8b44?viewMode=1)
